@@ -1,22 +1,3 @@
 # LSP-REC
 
-git clone https://github.com/MalavyaRaval/LSP-REC.git
-
-## Backend Setup  
-cd backend  
-npm install dotenv  
-npm install multer  
-npm audit fix  
-
-## Run Backedn  
-cd backend  
-npm start  
-
-## FrontEnd Setup  
-cd frontend  
-npm install  
-npm audit fix  
-
-## Start Frontend  
-cd frontend  
-npm run dev  
+Please refer to the updated version of this project on https://github.com/MalavyaRaval/LSP
