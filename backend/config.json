@@ -1,1 +1,1 @@
-{"mongodb_connection_string": "PUT_YOUR_MONGODB_DATABASE_LINK_HERE"}
+{"connectionString": "PUT_YOUR_MONGODB_DATABASE_LINK_HERE"}
